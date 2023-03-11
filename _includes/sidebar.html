@@ -71,7 +71,7 @@
           {%- endcapture -%}
         {% when 'linkedin' %}
           {%- capture url -%}
-            entry.url
+            https://{{entry.url}}
           {%- endcapture -%}
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}
