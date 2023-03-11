@@ -7,6 +7,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'www.linkedin.com/in/hae1-jung-438ab5242/'                  # Fill with your Linkedin homepage
 
+- type: google scholar
+  icon: 'fas fa-envelope'
+  url:  'https://scholar.google.com/citations?user=GGmwGPgAAAAJ&hl=ko' 
+
 - type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab

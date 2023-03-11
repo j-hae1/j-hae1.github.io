@@ -69,7 +69,7 @@
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
-        {% when 'linkedin' %}
+        {% when 'linkedin', 'google scholar' %}
           {%- capture url -%}
             https://{{entry.url}}
           {%- endcapture -%}
