@@ -8,7 +8,7 @@
   url:  'www.linkedin.com/in/hae1-jung-438ab5242/'                  # Fill with your Linkedin homepage
 
 - type: google scholar
-  icon: 'fas fa-envelope'
+  icon: 'fa-brands fa-google'
   url:  'https://scholar.google.com/citations?user=GGmwGPgAAAAJ&hl=ko' 
 
 - type: email
